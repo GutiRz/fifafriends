@@ -15,7 +15,8 @@
       "scenes": ["scenes"],
       "core": ["core"],
       "pods": ["pods"],
-      "common": ["common"]
+      "common": ["common"],
+      "assets": ["assets"]
     }
   },
   "compileOnSave": false,

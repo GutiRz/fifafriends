@@ -12,6 +12,7 @@ module.exports = {
       core: path.resolve(__dirname, './src/core/'),
       pods: path.resolve(__dirname, './src/pods/'),
       common: path.resolve(__dirname, './src/common/'),
+      assets: path.resolve(__dirname, './src/assets/'),
     },
     extensions: [".js", ".ts", ".tsx"]
   },
